@@ -6,7 +6,7 @@
 
 microsoft store 에서 ubuntu 설치하면 리눅스 명령어를 사용할 수 있다.(cmder도 비슷한거 같음)
 
-![image-20210118103011234](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210118103011234.png)
+![image-20210118103011234](images/image-20210118103011234.png)
 
 cmder를 사용할 때는 conda activate base 를 통해서 가상환경을 설정해주자
 
