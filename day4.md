@@ -4,7 +4,7 @@
 
 ## 새로 배운내용
 
-### 1. private variable
+### 1.private variable
 
 ![image-20210121120725542](images/image-20210121120725542.png)
 
