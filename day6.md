@@ -82,3 +82,11 @@ dot product를 하려면 메소드를 사용
 
 ## 궁금한 점
 
+![image-20210128095200582](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210128095200582.png)
+
+ln norm 에서 n은 양의 정수만 사용하나?
+
+기계학습에서는 학습의 목적에 따라 다른 거리공간을 사용한다고 한다.
+
+데이터의 특징을 고려해서 거리공간을 설계해야 하는듯 함
+
