@@ -12,7 +12,9 @@ sep에 정규표현식이 사용가능한것 같다.
 
 ## 참고용
 
+### 1.loc, iloc
 
+![image-20210128164504590](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210128164504590.png)
 
 ## 궁금한 점
 
