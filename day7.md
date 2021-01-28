@@ -10,7 +10,7 @@
 
 ### 1.sympy(미분할수있는 라이브러리)
 
-![image-20210127215345824](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210127215345824.png)
+![image-20210127215345824](images/image-20210127215345824.png)
 
 ## 궁금한 점
 
