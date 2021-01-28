@@ -8,7 +8,11 @@
 
 ![image-20210125132747033](images/image-20210125132747033.png)
 
+### 2.무어-펜로즈 역행렬
 
+![image-20210128103531798](images/image-20210128103531798.png)
+
+![image-20210128103813190](images/image-20210128103813190.png)
 
 ## 참고용
 
@@ -80,9 +84,13 @@ dot product를 하려면 메소드를 사용
 
 ![image-20210125133024665](images/image-20210125133024665.png)
 
+### 11.np.linalg.inv (역행렬)
+
+![image-20210128103341393](images/image-20210128103341393.png)
+
 ## 궁금한 점
 
-![image-20210128095200582](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210128095200582.png)
+![image-20210128095200582](images/image-20210128095200582.png)
 
 ln norm 에서 n은 양의 정수만 사용하나?
 
