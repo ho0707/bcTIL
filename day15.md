@@ -30,7 +30,7 @@ Auto-regressive Model은 하나의 정보가 이전 정보들에 dependent한 �
 
 ### 3.NADE
 
-xi 가 x1 ~ xi-1에 dependent한 모델이다.
+xi 가 x1 ... xi-1에 dependent한 모델이다.
 
 일반적으로 Density Estimator라는 말이 있으면 explicit model을 말할 때가 많다.
 
@@ -96,11 +96,11 @@ KL divergence 가 미분가능해야 하는데 이를 만족하는 확률분포�
 
 Gaussian distribution 를 사용했을때는 미분가능하므로 대부분 Gaussian distribution을 사용한다.
 
-isotropic Gaussian은 모든 outpuy dimension이 independent한 것을 얘기한다.
+isotropic Gaussian은 모든 output dimension이 independent한 것을 얘기한다.
 
 ![image-20210205114620905](images/image-20210205114620905.png)
 
-### 6.Adversarial Auto-encoder(AAE)
+### 6.Adversarial Auto-Encoder(AAE)
 
 wasserstein auto-encoder(WAE)의 한 종류로 wasserstein distance를 줄여주는 것과 동일한 효과가 있다.
 
