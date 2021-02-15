@@ -12,7 +12,9 @@
 
 #### Low-level
 
-Tokenization은 문장을 단어별로 분해하는 것이고
+Tokenization은 문장을 의미별로 분해하는 것이다.
+
+단어별로 분리하는 것이 아니기 때문에 어떤 Tokenizer를 쓰는지에 따라 다른 Token들이 생긴다.
 
 Stemming은 어미를 없애고 단어의 어근을 추출하는 것이다.
 
