@@ -58,7 +58,7 @@ Adadelta는 learning rate가 없어서 잘 사용하지는 않는다.
 
 #### RMSprop
 
-Adagrad와 stepsize만 다름
+Adagrad와 stepsize만 다름[궁금한 점](#RMSprop에서 stepsize가 왜 에타에 표시했을까?)
 
 ![image-20210202112753642](images/image-20210202112753642.png)
 
@@ -282,4 +282,8 @@ boosting은 각 모델들이 잘 예측하는 부분을 다르게해서 모델�
 
 ### RMSprop에서 stepsize가 왜 에타에 표시했을까?
 
+[돌아가기](#RMSProp)
+
 stepsize는 G에 들어있는거 같은데..?
+
+스텝사이즈가 학습률 얘기하는거인듯하다
