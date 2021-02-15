@@ -8,7 +8,7 @@
 
 ### 1.NLP
 
-![image-20210215113536968](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215113536968.png)
+![image-20210215113536968](images/image-20210215113536968.png)
 
 #### Low-level
 
@@ -54,7 +54,7 @@ POS는 문장내에서 단어의 품사를 구별하는 task이다.
 
 ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여 분석하는 경우
 
-![image-20210215114443486](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215114443486.png)
+![image-20210215114443486](images/image-20210215114443486.png)
 
 빅데이터 분석에 기반한 사회과학(Computational Social-Science)와도 깊은 관계가 있다.
 
@@ -68,13 +68,13 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 
 ### 4.Word2Vec 적용분야
 
-![image-20210215124321106](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215124321106.png)
+![image-20210215124321106](images/image-20210215124321106.png)
 
 ### 5.GloVe
 
 다른데서 본거랑 달리 bias term이 없다.
 
-![image-20210215124513798](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215124513798.png)
+![image-20210215124513798](images/image-20210215124513798.png)
 
 ## 참고용
 
@@ -84,11 +84,11 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 
 어떤 단어쌍이든 유클리드거리가 루트2 이고, 코사인 유사도가 0이다.
 
-![image-20210215115817423](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215115817423.png)
+![image-20210215115817423](images/image-20210215115817423.png)
 
-![image-20210215115829516](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215115829516.png)
+![image-20210215115829516](images/image-20210215115829516.png)
 
-![image-20210215115940488](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215115940488.png)
+![image-20210215115940488](images/image-20210215115940488.png)
 
 단어의 순서를 고려할 수 없다.
 
@@ -96,11 +96,11 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 
 문서를 정해진 카테고리, 클래스로 분류하는 기법
 
-![image-20210215120043683](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215120043683.png)
+![image-20210215120043683](images/image-20210215120043683.png)
 
-![image-20210215120057513](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215120057513.png)
+![image-20210215120057513](images/image-20210215120057513.png)
 
-![image-20210215120225666](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215120225666.png)
+![image-20210215120225666](images/image-20210215120225666.png)
 
 처음 보는 단어가 등장했을경우 p(w|c) = 0이기 때문에 해당 클래스로 분류할 수 없게 된다.
 
@@ -110,9 +110,9 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 
 비슷한 의미를 가지는 단어가 비슷한 위치에 맵핑한다. [궁금한점](#1.word-embedding이-어떻게-비슷한-단어를-비슷한-위치로-맵핑할-수-있을까?)
 
-![image-20210215121115797](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215121115797.png)
+![image-20210215121115797](images/image-20210215121115797.png)
 
-![image-20210215124921790](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215124921790.png)
+![image-20210215124921790](images/image-20210215124921790.png)
 
 ## 궁금한 점
 
@@ -120,7 +120,7 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 
 [돌아가기](#3.word-embedding)
 
-![image-20210215122544069](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215122544069.png)
+![image-20210215122544069](images/image-20210215122544069.png)
 
 비슷한 단어는 주변 단어가 나타날 확률이 비슷하므로 비슷한 벡터를 가진다
 
