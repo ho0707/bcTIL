@@ -108,7 +108,7 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 
 ### 3.Word Embedding
 
-비슷한 의미를 가지는 단어가 비슷한 위치에 맵핑한다. [궁금한점 1](#1.word-embedding이-어떻게-비슷한-단어를-비슷한-위치로-맵핑할-수-있을까?)
+비슷한 의미를 가지는 단어가 비슷한 위치에 맵핑한다. [궁금한점](#1.word-embedding이-어떻게-비슷한-단어를-비슷한-위치로-맵핑할-수-있을까?)
 
 ![image-20210215121115797](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215121115797.png)
 
@@ -117,6 +117,8 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 ## 궁금한 점
 
 ### 1.Word Embedding이 어떻게 비슷한 단어를 비슷한 위치로 맵핑할 수 있을까?
+
+[돌아가기](#3.word-embedding)
 
 ![image-20210215122544069](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215122544069.png)
 
