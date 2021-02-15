@@ -24,7 +24,7 @@
 
 3x3 filter 2개를 사용한것은 5x5 filter를 사용한 것으로 대체가능하다.
 
-하지만 parameter의 수는 3x3 filter 2개를 사용하는것이 더 적다.
+하지만 parameter의 수는 3x3 filter 2개를 사용하는것이 더 적다.[궁금한 점](#1.3x3 conv filter vs 5x5 conv filter)
 
 ![image-20210203142618980](images/image-20210203142618980.png)
 
@@ -139,6 +139,8 @@ Anchor box는 해당 영역에 물체가 있을만한 사이즈를 뜻하고
 ## 궁금한 점
 
 ### 1.3x3 conv filter vs 5x5 conv filter
+
+[돌아가기](#VGGNet)
 
 3x3 conv filter 2개를 5x5 conv filter 하나로 대응시킬순 있지만 역으로는 아닐것이다. 그런데 왜 3x3을 쓰고 parameter의 수를 줄이는게 더 잘될까?
 
