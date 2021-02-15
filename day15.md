@@ -152,7 +152,7 @@ leaky relu를 쓰자, 이미지에서는 MLP보다 deconvolution layer를 사용
 
 #### Info-GAN
 
-단순히 이미지를 생성하는 것이 아니라 class를 random하게 넣는다
+단순히 이미지를 생성하는 것이 아니라 class를 random하게 넣는다[궁금한 점](#1.info-gan에서-class를-랜덤하게-넣어주는데-어떻게-학습이-되지?)
 
 이것은 gan이 특정 mode에 집중할 수 있게 도와준다.
 
@@ -206,7 +206,9 @@ mode를 정해줄 수 있다.
 
 ## 궁금한 점
 
-### 1.Info-GAN, class를 랜덤하게 넣어주는데 어떻게 학습이 되지?
+### 1.Info-GAN에서 class를 랜덤하게 넣어주는데 어떻게 학습이 되지?
+
+[돌아가기](#info-gan)
 
 각 x의 class를 랜덤하게 넣는것이 아니다.
 
