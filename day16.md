@@ -132,4 +132,4 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 
 N x V 행렬이 다 같은건가?
 
-![image-20210215143738473](C:\Users\ho070\AppData\Roaming\Typora\typora-user-images\image-20210215143738473.png)
+![image-20210215143738473](images/image-20210215143738473.png)
