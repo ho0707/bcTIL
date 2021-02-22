@@ -34,7 +34,7 @@ ex) 소셜 네트워크, 전자 상거래 구매 내역, 인터넷 등등
 
 #### 그래프 관련 인공지능 문제예시
 
-##### 정점 분류류(Node Classification) 문제
+##### 정점 분류(Node Classification) 문제
 
 ![image-20210222113030577](images/image-20210222113030577.png)
 
