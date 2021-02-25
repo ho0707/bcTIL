@@ -204,6 +204,9 @@ mode를 정해줄 수 있다.
 
 ![image-20210205103812826](images/image-20210205103812826.png)
 
+- [1시간 만에 GAN 완전 정복하기](https://www.youtube.com/watch?v=odpjk7_tGY0&t=69s)
+- [An Introduction to Variational Autoencoders(저자)](https://arxiv.org/abs/1906.02691)
+
 ## 궁금한 점
 
 ### 1.Info-GAN에서 class를 랜덤하게 넣어주는데 어떻게 학습이 되지?
