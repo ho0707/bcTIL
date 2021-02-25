@@ -270,6 +270,8 @@
 
 ## 참고용
 
+[Mining Social-Network Graphs](http://infolab.stanford.edu/~ullman/mmds/ch10n.pdf)
+
 [Recommendation systems](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 
 ## 궁금한 점
