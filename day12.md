@@ -278,6 +278,9 @@ boosting은 각 모델들이 잘 예측하는 부분을 다르게해서 모델�
 
 ![image-20210202105537648](images/image-20210202105537648.png)
 
+- [RAdam github](https://github.com/LiyuanLucasLiu/RAdam)
+- [AdamP github](https://github.com/clovaai/AdamP)
+
 ## 궁금한 점
 
 ### RMSprop에서 stepsize가 왜 에타에 표시했을까?
