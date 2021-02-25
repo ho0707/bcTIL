@@ -270,7 +270,7 @@
 
 ## 참고용
 
-
+[Recommendation systems](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 
 ## 궁금한 점
 
