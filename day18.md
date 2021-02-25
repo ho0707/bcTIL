@@ -114,7 +114,13 @@ N-gram 단위로 존재하는지를 측정한다. (N = 1,2,3,4)
 
 ## 참고용
 
+- [Sequence to sequence learning with neural networks, ICML’14](https://arxiv.org/abs/1409.3215)
+- [Effective Approaches to Attention-based Neural Machine Translation, EMNLP 2015](https://arxiv.org/abs/1508.04025)
+- [CS224n(2019)_Lecture8_NMT](https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture08-nmt.pdf)
 
+- [Deep learning.ai-BeamSearch](https://www.youtube.com/watch?v=RLWuzLLSIgw&feature=youtu.be)
+- [Deep learning.ai-RefiningBeamSearch](https://www.youtube.com/watch?v=gb__z7LlN_4&feature=youtu.be)
+- [OpenNMT-beam search](https://opennmt.net/OpenNMT/translation/beam_search/)
 
 ## 궁금한 점
 
