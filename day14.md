@@ -240,7 +240,9 @@ Transformer는 같은 입력이라 하더라도 함께 입력된 다른 데이�
 
 ![image-20210204114513411](images/image-20210204114513411.png)
 
-
+- [Illustrated transformer (원글)](http://jalammar.github.io/illustrated-transformer/)
+- [Illustrated transformer (번역)](https://nlpinkorean.github.io/illustrated-transformer/)
+- [Pytorch official Transformer tutorial](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
 
 ## 궁금한 점
 
