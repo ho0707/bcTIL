@@ -230,7 +230,11 @@
 
 ## 참고용
 
+[Link Analysis](http://infolab.stanford.edu/~ullman/mmds/ch5.pdf)
 
+[The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
+
+[A Survey on Influence Maximization in a Social Network](https://arxiv.org/abs/1808.05502)
 
 ## 궁금한 점
 
