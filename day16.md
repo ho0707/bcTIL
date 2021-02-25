@@ -116,7 +116,8 @@ ex)과거 1년동안 나온 모든 뉴스를 모아서 키워드를 추출하여
 
 ![image-20210215124921790](images/image-20210215124921790.png)
 
-
+- [Word2Vec, NeurIPS'13](https://arxiv.org/abs/1310.4546)
+- [GloVe, EMNLP'14](https://www.aclweb.org/anthology/D14-1162/)
 
 ## 궁금한 점
 
