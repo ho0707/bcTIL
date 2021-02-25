@@ -162,6 +162,11 @@ y는 매 time step에서 출력해야 하는 경우(단어의 품사 에측 등)
 
 마지막에 한번만 출력해야하는 경우(문장의 긍정 부정 등)도 있다.
 
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [CS231n(2017)_Lecture10_RNN](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf)
+
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 ## 궁금한 점
 
 ### 1.RNN inference
