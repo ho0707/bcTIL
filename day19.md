@@ -134,7 +134,13 @@ softmax를 통과한 값을 후처리 해준다.
 
 ## 참고용
 
+- [Attention is all you need, NeurIPS'17](https://arxiv.org/abs/1706.03762)
+- [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 
+- [Attention is all you need, NeurIPS'17](https://arxiv.org/abs/1706.03762)
+- [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [Group Normalization](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)
 
 ## 궁금한 점
 
