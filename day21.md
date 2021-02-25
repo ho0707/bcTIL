@@ -272,7 +272,7 @@ Snap.py는 속도는 빠르지만 사용이 조금 불편하다.
 
 ## 참고용
 
-
+[Random Graph Modeling: A Survey of the Concepts](https://dl.acm.org/doi/abs/10.1145/3369782)
 
 ## 궁금한 점
 
