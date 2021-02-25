@@ -26,5 +26,8 @@
 
 ![image-20210128213512232](images/image-20210128213512232.png)
 
+- Deep Learning, Goodfellow et al., [3장 Probability and Information Theory](https://www.deeplearningbook.org/contents/prob.html), [17장 Monte Carlo Methods](https://www.deeplearningbook.org/contents/monte_carlo.html)
+- PRML, C. Bishop, 1.2 Probability Theory, 11.1 Basic Sampling Algorithms
+
 ## 궁금한 점
 
