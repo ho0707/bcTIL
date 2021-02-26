@@ -288,7 +288,13 @@ dw는 d의 연결성이고, 연결성이 크면 가중치가 낮아진다.
 
 ## 참고용
 
+[node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf)
 
+[DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf)
+
+[Recommendation Systems](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
+
+[MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
 
 ## 궁금한 점
 
