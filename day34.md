@@ -18,7 +18,7 @@ class분류 결과를 가지고 mask를 참조한다.
 
 #### YOLACT(You Only Look At CoefficienTs)
 
-Mask의 프로토타입을 구하고, Coefficients를 구해서 선형결합을 구한다.
+Mask의 프로토타입을 구 하고, Coefficients를 구해서 선형결합을 구한다.
 
 ![image-20210311144427037](images/image-20210311144427037.png)
 
